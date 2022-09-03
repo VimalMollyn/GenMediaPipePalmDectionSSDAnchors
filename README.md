@@ -4,5 +4,5 @@ I've also included the generated `anchors.csv`
 
 To generate it yourself, run the following:
 ```bash
-    node gen_anchors.js >> anchors.csv
+node gen_anchors.js >> anchors.csv
 ```
